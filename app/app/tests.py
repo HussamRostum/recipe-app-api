@@ -19,4 +19,3 @@ class CalcTests(SimpleTestCase):
         """Test adding numbers together."""
         res = calc.sub(10, 15)
         self.assertEqual(res, 5)
-        
